@@ -1,6 +1,5 @@
 ## This test App was made with Create React App
 
-...and published on https://nikolaiberestevich-deriv.github.io/timer-test-app/
 ## Quick start
 0. clone
 1. npm i
